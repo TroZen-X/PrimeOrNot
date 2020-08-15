@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597052165 source:c:\users\shashank\desktop\primeornot\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 c:\users\shashank\desktop\primeornot\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\shashank\desktop\primeornot\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597476360 source:c:\users\shashank\desktop\primeornot\main.c
+	"test_prime.h"
+
+1597476452 c:\users\shashank\desktop\primeornot\test\test_prime.h
+
+1597476344 source:c:\users\shashank\desktop\primeornot\src\prime.c
+	"prime.h"
+
+1597476349 c:\users\shashank\desktop\primeornot\inc\prime.h
+
+1597476534 source:c:\users\shashank\desktop\primeornot\test\test_prime.c
+	"unity.h"
+	"prime.h"
+
